@@ -1,5 +1,5 @@
 <?php
-namespace Bitfumes\Contact;
+namespace Ssdpkg\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

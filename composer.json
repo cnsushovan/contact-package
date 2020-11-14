@@ -1,5 +1,5 @@
 {
-    "name": "bitfumes/contact",
+    "name": "ssdpkg/contact",
     "description": "This will send email to contact",
     "type": "library",
     "license": "MIT",
@@ -8,7 +8,7 @@
 
     "autoload": {
         "psr-4": {
-            "Bitfumes\\Contact\\": "src/"
+            "Ssdpkg\\Contact\\": "src/"
         }
     }
 }

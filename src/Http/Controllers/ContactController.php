@@ -1,12 +1,12 @@
 <?php
 
-namespace Bitfumes\Contact\Http\Controllers;
+namespace Ssdpkg\Contact\Http\Controllers;
 
 use Mail;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use Bitfumes\Contact\Models\Contact;
-use Bitfumes\Contact\Mail\ContactMailable;
+use Ssdpkg\Contact\Models\Contact;
+use Ssdpkg\Contact\Mail\ContactMailable;
 
 class ContactController extends Controller
 {
