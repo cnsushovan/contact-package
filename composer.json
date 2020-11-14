@@ -5,13 +5,11 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {},
-
     "autoload": {
         "psr-4": {
             "Ssdpkg\\Contact\\": "src/"
         }
     },
-
     "extra": {
         "laravel": {
             "providers": [
