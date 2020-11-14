@@ -10,5 +10,13 @@
         "psr-4": {
             "Ssdpkg\\Contact\\": "src/"
         }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ssdpkg\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
